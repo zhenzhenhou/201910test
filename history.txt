@@ -1,0 +1,282 @@
+    1  git config --global user.name "Liu Shuaihua"
+    2  git config --global user.name "Liu Shuaihua" $ git config --global user.email "445676861@qq.com"
+    3  git config --global user.name "liushuaihua"
+    4  git config --global user.email "445676861@qq.com"
+    5  git config user.name "liushuaihua"
+    6  git config --global user.name "liushuaihua"
+    7  git config --global user.email "445676861@qq.com"
+    8  git init Initialized empty Git repository in /learngit/.git
+    9  ls -ah
+   10  git init Initialized empty Git repository in/learngit/.git/
+   11  ls -ah
+   12  cd E:\\GitHub
+   13  cd E:\\GitHub\\learngit
+   14  git init
+   15  git status
+   16  git diff
+   17  git diff readme.txt
+   18  git diff readme.txt
+   19  git status
+   20  git status
+   21  git add readme.txt
+   22  git status
+   23  git commit
+   24  git add readme.txt
+   25  git commit -m "append GPL"
+   26  git status
+   27  git log
+   28  git add readme.txt
+   29  git satsus
+   30  git log
+   31  git add readme.txt
+   32  git commit -m "append GPL"
+   33  git log
+   34  git log --pretty=oneline
+   35  git reset --hard HEAD^
+   36  git log
+   37  git sataus
+   38  git log
+   39  git reset --hard HEAD^
+   40  git log
+   41  git status
+   42  git add
+   43  git add .
+   44  git commit
+   45  git push
+   46  git status
+   47  git push -u origin master
+   48  liushuaihua
+   49  git push
+   50  git stauts
+   51  git status
+   52  git commit
+   53  git status
+   54  git status
+   55  git remote -v
+   56  git push
+   57  git status
+   58  git commit -m 'init project'
+   59  git status
+   60  git push
+   61  git init
+   62  git satus
+   63  git status
+   64  git commit -m "init project"
+   65  git add
+   66  git add .
+   67  git commit -m "init project"
+   68  git push
+   69  git sataus
+   70  git status
+   71  git reset
+   72  git status
+   73  git log
+   74  $ git status
+   75  git log
+   76  git reset --hard HEAD^
+   77  git status
+   78  git reset --hard HEAD^
+   79  git status
+   80  git reset --hard HEAD^^
+   81  git log
+   82  f:
+   83  git clone https://github.com/carsenk/explorer
+   84  npm install 
+   85  npm install
+   86  bower install
+   87  npm install
+   88  npm install geth
+   89  ls
+   90  ls -l
+   91  ls -a
+   92  ls -la
+   93  clear
+   94  cd
+   95  cd .
+   96  ls
+   97  clear
+   98  cd: E:
+   99  cd E:
+  100  cd my
+  101  ls
+  102  cd utils
+  103  ls
+  104  clear
+  105  /e/000测试用例工作clear
+  106  clear
+  107  /e/my
+  108  mkdir temp
+  109  cd temp
+  110  touch 1.txt
+  111  touch .babelrc
+  112  touch 1.txt
+  113  ls
+  114  vi 1.txt
+  115  vi 1.txt
+  116  vi 1.txt
+  117  clear
+  118  echo word--world  >2.txt
+  119  echo hello >2.txt
+  120  echo word --world >>2.txt
+  121  cat 2.txt
+  122  cp 2.txt 3.txt
+  123  vi 2.txt
+  124  echo this is 3.txt >>3.txt
+  125  rm .babelrc
+  126  cd ../
+  127  rm temp
+  128  rm -r temp
+  129  clear
+  130  cd ../
+  131  cd /
+  132  git config -l
+  133  git config --global user.name zhenzhenhou
+  134  git config --global user.email 1184201711@qq.com
+  135  git config -l
+  136  /f/Amy/telList
+  137  cd e:
+  138  cd Amy
+  139  ls
+  140  clear
+  141  /f/Amy/telList
+  142  git init
+  143  ls -a
+  144  clear
+  145  cd E:\\
+  146  ls
+  147  clear
+  148  cd f:\\
+  149  ls
+  150  cd  tellll/
+  151  git init
+  152  git status
+  153  touch 1.txt
+  154  echo 1.txt-content >1.txt
+  155  cat 1.txt
+  156  git status
+  157  fit add .
+  158  git add .
+  159  git commit -m'create one text'
+  160  git status
+  161  git log
+  162  touch .gitignore
+  163  touch .gitignore
+  164  vi .gitignore
+  165  git commit -a -m'add ignore'
+  166  git add .
+  167  git commit -m'second'
+  168  git log
+  169  git config -l
+  170  clear
+  171  cd ../
+  172  mkdir TELL
+  173  cd TELL
+  174  git init
+  175  touch readme.md
+  176  vi readme.md
+  177  cat readme.md
+  178  touch .gitignore
+  179  vi .gitignore
+  180  git log
+  181  git add .
+  182  git status
+  183  git commit -m'第一次提交'
+  184  git status
+  185  git log
+  186  echo 珠峰1 >1.txt
+  187  git add .
+  188  git status
+  189  echo 培训2 >2.txt
+  190  git add -A
+  191  git status
+  192  git rm --cached 1.txt -r
+  193  git status
+  194  cat 1.txt
+  195  cat 2.txt
+  196  git rm --cached , -r
+  197  git rm --cached . -r
+  198  git rm --cached . -rf
+  199  git status
+  200  cat 1.txt
+  201  git add .
+  202  git log
+  203  touch 222>>2.txt
+  204  touch 22 >2.txt
+  205  cat 2.txt
+  206  touch 22222>2.txt
+  207  cat 2.txt
+  208  touch 2222 >2.txt
+  209  cat 2.txt
+  210  echo 222 >2.txt
+  211  cat 2.txt
+  212  git add .
+  213  git commit -m'2-修改内容'
+  214  git log
+  215  echo 文字太单调了 >2.txt
+  216  cat 2.txt
+  217  git commit -a -m'3-修改2.txt'
+  218  git log
+  219  touch 3.txt
+  220  echo 33333 >3.txt
+  221  cat 3.txt
+  222  git add . 
+  223  git status
+  224  echo jdfjjdjfjk >>3.txt
+  225  git checkout .
+  226  echo 2222 >2.txt
+  227  echo llllll >>3.txt
+  228  git status
+  229  git add .
+  230  git status
+  231  git checkout .
+  232  echo kkdkkd >>2.txt
+  233  echo ooooooooo>3.txt
+  234  git checkout .
+  235  echo ooooooooo>3.txt
+  236  cat 3.txt
+  237  cat 2.txt
+  238  echo kkdkkd >>2.txt
+  239  git add .
+  240  cat 2.txt
+  241  cat 3.txt
+  242  git reset HEAD .
+  243  git checkout .
+  244  cat 3.txt
+  245  cat 2.txt
+  246  echo 2222222 >2.txt
+  247  echo 3333333>3.txt
+  248  cat 2.txt
+  249  cat 3.txt
+  250  echo 3333333 >3.txt
+  251  cat 3.txt
+  252  git add . 
+  253  git status
+  254  echo 33eeeee333 >3.txt
+  255  cat 3.txt
+  256  git add .
+  257  git status
+  258  git reset HEAD .
+  259  git checkout .
+  260  cat 3.txt
+  261  cat 2.txt
+  262  git reset HEAD ,
+  263  git checkout .
+  264  cat 3.txt
+  265  cat 2.txt
+  266  git diff
+  267  git diff master
+  268  git diff --cached
+  269  echo wwwwwwwwww >3.txt
+  270  cat 3.txt
+  271  git diff
+  272  git add .
+  273  git status
+  274  git diff --cached
+  275  git log
+  276  git commit -a -m'4-提交4'
+  277  git log
+  278  git reset --hard 3f828e9f
+  279  git log
+  280  git reflog
+  281  git reset  --hard e40c16d0
+  282  history > history.txt
